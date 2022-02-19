@@ -11,4 +11,6 @@ Proyecto del video para aprender a crear el efecto bitz
 - HTML
 - CSS
 
+![Imagen del efecto](https://github.com/Wiar8/pagina-web-efecto-bitz/blob/main/img/Mockup.png)
+
 ⌨️ con ❤️ por [Wiar8](https://github.com/Wiar8) 😊
