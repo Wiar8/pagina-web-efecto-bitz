@@ -12,35 +12,6 @@ body {
 
 /* Hero */
 
-header {
-  width: 100%;
-  height: 750px;
-  background-image: url(../img/hero.jpg);
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center;
-  overflow: hidden;
-  color: #fff;
-  text-align: center;
-  clip-path: polygon(100% 0, 100% 70%, 50% 100%, 0 70%, 0 0);
-}
-
-.texts {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.texts__title {
-  font-size: 3.5rem;
-}
-
-.texts__subtitle {
-  font-size: 2rem;
-  margin-top: 10px;
-}
-
 /* Body */
 
 .title {
